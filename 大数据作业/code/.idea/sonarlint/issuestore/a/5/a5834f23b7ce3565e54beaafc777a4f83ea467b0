@@ -1,0 +1,6 @@
+
+ipython:S107"MMethod "__init__" has 15 parameters, which is greater than the 13 authorized.( òäúÿÿÿÿ
+zpython:S5717"]Change this default value to "None" and initialize this parameter inside the function/method.( òäúÿÿÿÿ
+Bpython:S14817"%Remove the unused local variable "i".(õ‰Ö»ÿÿÿÿÿ
+7python:S125¡"Remove this commented out code.(öıò·
+7python:S125Î"Remove this commented out code.(±Õµ
